@@ -4,6 +4,10 @@ A recode of the same universal script, this time the script is written by 2 code
 
 The repository is currently **CLOSED**, we are still working on this script, you can't access it yet.
 
+There is a closed beta test going on at this stage, it is **not possible** to join the test right now
+#
+There is a mini development team working on this record  
+We decided to rebuild the script with advanced features and bypasses from **nothing**
 
 #
 **Developers**:
@@ -15,8 +19,8 @@ The repository is currently **CLOSED**, we are still working on this script, you
 #
 **Testers**:
 
-> int3rn0
+> **int3rn0**
 
-> vkoreee
+> **vkoreee**
 
-> shezuus
+> **shezuus**
