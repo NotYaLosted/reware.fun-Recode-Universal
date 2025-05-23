@@ -1,4 +1,4 @@
-# Universal Recode
+# reware.fun > Universal Recode
 
 A recode of the same universal script, this time the script is written by 2 coders  
 
