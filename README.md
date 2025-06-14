@@ -18,6 +18,8 @@ We decided to rebuild the script with advanced features and bypasses from **noth
 
 > **b3zdarr** > Assistant Developer 
 
+> **gaysense** > Protection Developer
+
 #
 **Testers**:
 
